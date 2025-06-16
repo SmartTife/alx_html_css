@@ -1,0 +1,20 @@
+.japa {
+    display: flex;
+    flex-direction: column;
+}
+
+.mafo{
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+.ojubo {
+    flex: 2;
+    overflow-y: auto;
+}
+
+.efile {
+    flex: 1;
+    overflow-y: auto;
+}
