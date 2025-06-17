@@ -59,3 +59,6 @@ GitHub: [SmartTife](https://github.com/SmartTife)
 [LinkedIn](https://www.linkedin.com/in/iradat-ayoade-84388924a)  
 Email: ayoadeiradatboluwatife@gmail.com
 
+## 📸 Preview
+
+![Webpage Screenshot](./images/screenshot.png)
